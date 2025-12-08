@@ -1,0 +1,5 @@
+AI-Powered-DataScience-Team is a fully autonomous multi-agent system where specialized AI agents collaborate like a real Data Science team to execute the entire ML lifecycle automatically.
+
+It helps in perform EDA, data ingestion, schema detection, cleaning, missing-value handling, outlier removal, encoding, scaling, EDA report generation with visualizations, feature engineering, feature selection, model training across multiple algorithms, hyperparameter tuning, model comparison, performance evaluation, error analysis, and final report generation with insights and recommendations. 
+
+It is driven by Agentic AI, LLM orchestration, and tool-enabled reasoning, the system plans tasks, executes Python code, generates plots, builds optimized models, and produces complete data science pipelines end-to-end without manual intervention — showcasing advanced GenAI engineering and full ML workflow automation.
